@@ -1,0 +1,83 @@
+/*
+ * Theme Name: Harp
+ * Author: Joseph W.
+ * Author URI: https://digbootstrap.com
+ * Version: 1.0
+ *
+ */
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,400italic,300,300italic,500italic,500|Roboto+Slab);
+
+
+
+
+@media (max-width:480px) {
+
+    .features {
+        margin-top: 0;
+    }
+
+}
+
+.features {
+    margin-top: 30px;
+}
+
+.features hr {
+    width: 70%;
+    border: 1px solid #ccc;
+    clear: both;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.feature {
+    margin-top: 30px;
+}
+
+.feature .fa {
+    color: #ccc;
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.feature-one .fa {
+    color: #31b4e7;
+}
+
+.feature-two .fa {
+    color: #ff864f;
+}
+
+.feature-three .fa {
+    color: #88bf62;
+}
+
+.feature p {
+    text-align:justify;
+    margin:0 20px;
+}
+
+.sb-content {
+    padding-top:100px;
+}
+
+.feature h4 {
+    font-size: 20px;
+}
+
+.btn-harp {
+    background-color: #ffc525;
+}
+
+.btn-harp {
+    box-shadow: none;
+    color: #333;
+    text-transform: uppercase;
+}
+
+.btn, a {
+    transition: all 0.5s ease 0s;
+}
+
+
